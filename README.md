@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=686BB4&height=100&section=header&text=HI!%20I'm%20H&fontSize=26&fontColor=fffff white&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=686BB4&height=100&section=header&text=HI!%20I'm%20H&fontSize=26&fontColor=FFFAFA&animation=twinkling" />
 
 ### About Me
 
@@ -22,7 +22,7 @@ Web development <br/>
 <!-- status bar -->
   <img src="https://github-readme-stats.vercel.app/api?username=haennnn&layout=compact&show_icons=true&theme=vue&hide_border=true" />
   
-  
 ### connect
 <a href="mailto:hyehyeon1997@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+
 
