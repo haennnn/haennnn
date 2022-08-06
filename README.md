@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=686BB4&height=100&section=header&text=HI!%20I'm%20H&fontSize=26&fontColor=FFFAFA&animation=twinkling&fontAlign=90" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=686BB4&height=100&section=header&text=HI!%20I'm%20H&fontSize=26&fontColor=FFFAFA&animation=twinkling&fontAlign=70" />
 
 ### About Me
 
