@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=686BB4&height=150&section=header&text=HI!%20I'm%20H&fontSize=70&fontColor=_&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=686BB4&height=100&section=header&text=HI!%20I'm%20H&fontSize=70&fontColor=_&animation=twinkling" />
 ### About me
+
 I’m currently learning Basic Programming skills like HTML, CSS and Javascript.<br/>
 How to reach me: hyehyeon1997@gmail.com <br/>
 
